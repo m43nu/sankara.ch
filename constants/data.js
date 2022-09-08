@@ -4,7 +4,7 @@ const userData = {
   designation: "Crossfit Coach & Full-Stack Developer",
   avatarUrl: "/avatar.jpg",
   email: "emanuel@sankara.ch",
-  phone: "+41 79 853 98 52",
+  phone: "+41 79 753 98 52",
   address: "Köniz, Switzerland",
   projects: [
     {
@@ -50,7 +50,7 @@ const userData = {
   ],
   about: {
     title:
-      "Web-Devloper and Crossfit Coach",
+      "Web-Developer and Crossfit Coach",
     description: [
       `Passionate Web-Developer, Crossfit-Coach and Athlete. Striving to be better every day. Helping others reaching their potential in Business or Sports is one of my main goals.`,
     ],
